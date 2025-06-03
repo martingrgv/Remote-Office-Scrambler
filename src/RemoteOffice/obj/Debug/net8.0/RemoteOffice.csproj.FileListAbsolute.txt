@@ -1,0 +1,14 @@
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/bin/Debug/net8.0/RemoteOffice
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/bin/Debug/net8.0/RemoteOffice.deps.json
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/bin/Debug/net8.0/RemoteOffice.runtimeconfig.json
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/bin/Debug/net8.0/RemoteOffice.dll
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/bin/Debug/net8.0/RemoteOffice.pdb
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.GeneratedMSBuildEditorConfig.editorconfig
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.AssemblyInfoInputs.cache
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.AssemblyInfo.cs
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.csproj.CoreCompileInputs.cache
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.dll
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/refint/RemoteOffice.dll
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.pdb
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/RemoteOffice.genruntimeconfig.cache
+/home/martinwlsngrgv/Development/RemoteOffice/src/RemoteOffice/obj/Debug/net8.0/ref/RemoteOffice.dll
